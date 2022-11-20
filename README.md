@@ -58,4 +58,4 @@ Contains the HTML pages used for the webpage. Edit these to fit your project. ho
 
 yolo/
 
-Contains info for yolo. Edit yolo.cfg according to the yolov3 darknet instructions. Edit yolo.names according to your labels for your project's objects. In order to test the flask app locally, you also need to put your model weights file in this directory and name it as yolo.weights.
+Contains info for yolo.  
