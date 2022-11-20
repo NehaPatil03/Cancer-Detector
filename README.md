@@ -1,6 +1,8 @@
 # Cancer-Detector
  computer vision project using yolo
+ 
  The files/directories which you will need to edit are bolded, and the files you may need to edit are italicized. DO NOT TOUCH OTHER FILES.
+ 
 
 .gitignore
 Dockerfile
